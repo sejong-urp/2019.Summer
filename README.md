@@ -25,12 +25,12 @@
 □ 기 타: 근무기간 내 기숙사 제공 불가 <br>
 
 ## 마. 연구실 목록 
-□  [Mobile Intelligent Embedded Systems Lab.](http://home.sejong.ac.kr/~hyungkim/4.html) / 김형석 교수
-□  [Intelligent Signal Processing Lab.](https://sites.google.com/view/blee/) / 이병무 교수 
-□  [Hybrid Electronics Platform Lab.](https://helplab.wixsite.com/helplab) / 임유승 교수 
-□  Nano Materials and Devices Lab. / 박성훈 교수 
-□  [Intelligent Vehicle Perception System Lab.](https://sites.google.com/view/ivpg)  / 서재규
-□  [Intelligent Navigation and Control Systems Lab.](https://sites.google.com/view/incsl) / 송진우 교수 
-□  [Intelligent Visual Computing Lab.](https://sites.google.com/view/ivcl) / 이진영 교수 
-□  [Intelligent Communications Lab.](https://sites.google.com/view/sejong-icl) / 정철 교수
-□  [Robotics and Computer Vision Lab.](https://www.rcv.sejong.ac.kr/) / 최유경 교수
+□  [Mobile Intelligent Embedded Systems Lab.](http://home.sejong.ac.kr/~hyungkim/4.html) / 김형석 교수 <br>
+□  [Intelligent Signal Processing Lab.](https://sites.google.com/view/blee/) / 이병무 교수 <br>
+□  [Hybrid Electronics Platform Lab.](https://helplab.wixsite.com/helplab) / 임유승 교수 <br>
+□  Nano Materials and Devices Lab. / 박성훈 교수 <br>
+□  [Intelligent Vehicle Perception System Lab.](https://sites.google.com/view/ivpg)  / 서재규 <br>
+□  [Intelligent Navigation and Control Systems Lab.](https://sites.google.com/view/incsl) / 송진우 교수 <br>
+□  [Intelligent Visual Computing Lab.](https://sites.google.com/view/ivcl) / 이진영 교수 <br>
+□  [Intelligent Communications Lab.](https://sites.google.com/view/sejong-icl) / 정철 교수 <br>
+□  [Robotics and Computer Vision Lab.](https://www.rcv.sejong.ac.kr/) / 최유경 교수 <br>
