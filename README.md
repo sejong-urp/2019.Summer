@@ -25,7 +25,7 @@
 ※ 연구실에 따라 별도 면접 진행 <br>
 □ 제출방법: 이메일 (2019.URP@rcv.sejong.ac.kr) 제출 후 Github issues에 제출여부기록<br>
 ※ 이메일 제목 엄수 [2019년도 하계 학부생 연구 인턴십 프로그램] <br>
-□ 문 의: Github Issues 이용
+□ 문 의: Github Issues 이용 <br>
 □ 기 타: 근무기간 내 기숙사 제공 불가 <br>
 
 ### 마. 연구실 목록 
