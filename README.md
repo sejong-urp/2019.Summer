@@ -19,8 +19,18 @@
 
 ## 라. 합격자 발표
 □ 합격자 발표 예정일: 2019년 06월 14일(금) 15:00 이후 예정 <br>
-※ 연구실에 따라 별도 면접 진행 <br><br>
-□ 제출방법: 이메일 (ykchoi@sejong.ac.kr) 제출 /  <br>
-  ※ 이메일 제목 엄수 [2019년도 하계 학부생 연구 인턴십 프로그램] <br><br>
-□ 문의처: 학부생 연구인턴십 프로그램 담당교수 (2019.URP@rcv.sejong.ac.kr) <br>
+※ 연구실에 따라 별도 면접 진행 <br>
+□ 제출방법: 이메일 (2019.URP@rcv.sejong.ac.kr) 제출 <br>
+※ 이메일 제목 엄수 [2019년도 하계 학부생 연구 인턴십 프로그램] <br>
 □ 기 타: 근무기간 내 기숙사 제공 불가 <br>
+
+## 마. 연구실 목록 
+1. [Mobile Intelligent Embedded Systems Lab.](http://home.sejong.ac.kr/~hyungkim/4.html) / 김형석 교수
+2. [Intelligent Signal Processing Lab.](https://sites.google.com/view/blee/) / 이병무 교수 
+3. [Hybrid Electronics Platform Lab.](https://helplab.wixsite.com/helplab) / 임유승 교수 
+4. Nano Materials and Devices Lab. / 박성훈 교수 
+5. [Intelligent Vehicle Perception System Lab.](https://sites.google.com/view/ivpg)  / 서재규
+6. [Intelligent Navigation and Control Systems Lab.](https://sites.google.com/view/incsl) / 송진우 교수 
+7. [Intelligent Visual Computing Lab.](https://sites.google.com/view/ivcl) / 이진영 교수 
+8. [Intelligent Communications Lab.](https://sites.google.com/view/sejong-icl) / 정철 교수
+9. [Robotics and Computer Vision Lab.](https://www.rcv.sejong.ac.kr/) / 최유경 교수
