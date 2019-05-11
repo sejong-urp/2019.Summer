@@ -1,5 +1,5 @@
 
-#[지원서다운로드](https://www.dropbox.com/s/kfgdqnaifjjg44w/2019%EB%85%84%EB%8F%84%20%ED%95%98%EA%B3%84%20%ED%95%99%EB%B6%80%EC%9D%B8%ED%84%B4%EC%8B%AD%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%A7%80%EC%9B%90%EC%84%9C.hwp?dl=0), #[지원자목록](https://github.com/sejong-urp/2019.Summer/issues/1), #[지원관련Q&A](https://github.com/sejong-urp/2019.Summer/issues/2)
+#[지원서다운로드](https://www.dropbox.com/s/kfgdqnaifjjg44w/2019%EB%85%84%EB%8F%84%20%ED%95%98%EA%B3%84%20%ED%95%99%EB%B6%80%EC%9D%B8%ED%84%B4%EC%8B%AD%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%A7%80%EC%9B%90%EC%84%9C.hwp?dl=0), #[지원현황](https://github.com/sejong-urp/2019.Summer/issues/1), #[지원관련Q&A](https://github.com/sejong-urp/2019.Summer/issues/2)
 
 # 2019년도 하계 학부생 연구인턴십 프로그램
 
