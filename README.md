@@ -32,7 +32,7 @@
 □  [Mobile Intelligent Embedded Systems Lab.](http://home.sejong.ac.kr/~hyungkim/4.html) / 김형석 교수 <br>
 □  [Intelligent Signal Processing Lab.](https://sites.google.com/view/blee/) / 이병무 교수 <br>
 □  [Hybrid Electronics Platform Lab.](https://helplab.wixsite.com/helplab) / 임유승 교수 <br>
-□  [Intelligent Vehicle Perception System Lab.](https://sites.google.com/view/ivpg)  / 서재규 교수, 최경택 교수 [별첨](https://github.com/sejong-urp/2019.Summer/issues/3)<br>
+□  [Intelligent Vehicle Perception System Lab.](https://sites.google.com/view/ivpg)  / 서재규 교수, 최경택 교수 [추가정보**](https://github.com/sejong-urp/2019.Summer/issues/3)<br>
 □  [Intelligent Navigation and Control Systems Lab.](https://sites.google.com/view/incsl) / 송진우 교수 <br>
 □  [Intelligent Visual Computing Lab.](https://sites.google.com/view/ivcl) / 이진영 교수 <br>
 □  [Intelligent Communications Lab.](https://sites.google.com/view/sejong-icl) / 정철 교수, 강재모 교수 <br>
