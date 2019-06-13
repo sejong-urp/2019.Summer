@@ -8,7 +8,7 @@
 |:--:|:--:|:--:|
 | Mobile Intelligent Embedded Systems Lab. | 김형석 | 도진경(지능) |
 | Intelligent Signal Processing Lab. | 이병무 | 조은서(지능) |
-| Hybrid Electronics Platform Lab. | 임유승 | 변성준(전자), 고은비(전전), 조예슬(지능) |
+| Hybrid Electronics Platform Lab. | 임유승 | 변성준(전자), 고은비(전전통), 조예슬(지능) |
 | Intelligent Vehicle Perception System Lab. | 서재규, 최경택 | 주영준(컴공), 위성민(지능), 임수현(컴공), <br> 조동현(지능) |
 | Intelligent Navigation and Control Systems Lab. | 송진우 | 박진현(지능2), 이진수(지능), 배한욱(지능), <br> 이승준(지능) | 
 | Intellignet Visual Computing Lab. | 이진영 | 정종희(지능) |
