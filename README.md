@@ -3,3 +3,16 @@
 - [지원현황](https://github.com/sejong-urp/2019.Summer/issues/1)
 - 결과 
 
+
+## 2019 하계 학부연구생프로그램(URP) 학생 명단
+| 지원연구실 | 지도교수 | 합격자 명단 |
+|:--:|:--:|:--:|
+| Mobile Intelligent Embedded Systems Lab. | 김형석 | |
+| Intelligent Signal Processing Lab. | 이병무 | |
+| Hybrid Electronics Platform Lab. | 임유승 | |
+| Intelligent Vehicle Perception System Lab. | 서재규 |
+| Intelligent Navigation and Control Systems Lab. | 송진우 |
+| Intellignet Visual Computing Lab. | 이진영 | |
+| Intellignet Communications Lab. | 정철 | |
+| Roborics and Computer Vision Lab. | 최유경 | |
+
