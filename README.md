@@ -9,9 +9,8 @@
 | Mobile Intelligent Embedded Systems Lab. | 김형석 | |
 | Intelligent Signal Processing Lab. | 이병무 | |
 | Hybrid Electronics Platform Lab. | 임유승 | |
-| Intelligent Vehicle Perception System Lab. | 서재규 |
+| Intelligent Vehicle Perception System Lab. | 서재규, 최경택 |
 | Intelligent Navigation and Control Systems Lab. | 송진우 |
 | Intellignet Visual Computing Lab. | 이진영 | |
-| Intellignet Communications Lab. | 정철 | |
 | Roborics and Computer Vision Lab. | 최유경 | |
 
