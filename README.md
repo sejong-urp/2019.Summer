@@ -14,4 +14,5 @@
 | Intellignet Visual Computing Lab. | 이진영 | 정종희(지능) |
 | Roborics and Computer Vision Lab. | 최유경 | 김해린(지능), 김태주(지능), 신정민(지능), <br> 함우빈(지능), 박연정(지능), 김병주(지능) |
 
-> 경쟁률: 1:1.5
+> 경쟁률: 1:1.5 
+> 더 많은 학생들을 선발해 달라는 요청을 수용함
